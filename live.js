@@ -5,8 +5,8 @@
   Version 4.
   Recent change: Made stylesheet and mimetype checks case insensitive.
 
-  http://livejs.com
-  http://livejs.com/license (MIT)  
+  http://livejs.org
+  http://livejs.org/license (MIT)  
   @livejs
 
   Include live.js#css to monitor css changes only.
